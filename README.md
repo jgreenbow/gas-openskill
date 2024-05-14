@@ -7,7 +7,7 @@ This project is Google Apps Script library which export
 
 Add the OpenSkill library with the below script ID and `OpenSkill` as identifier.
 
-Script ID: `14L7tf5NEPVY34laI7JughMK9hFovfuMxTSdJcWRmxM8oidzvvtS5LKsx`
+Script ID: `1x5ZLBe6XyNPlSe2g3E4GfIobuarRq71eKF6Lk_W6ehXDQ5yUQ4y98gfE`
 
 ## Usage
 
